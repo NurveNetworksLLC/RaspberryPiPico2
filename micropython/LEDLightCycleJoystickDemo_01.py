@@ -60,6 +60,7 @@ def hsv_to_rgb(h, s, v):
     elif i == 1: r, g, b = q, v, p
     elif i == 2: r, g, b = p, v, t
     elif i == 3: r, g, b = p, q, v
+
     elif i == 4: r, g, b = t, p, v
     else: r, g, b = v, p, q
     return (int(r * 255), int(g * 255), int(b * 255))
