@@ -4,7 +4,11 @@ import time
 
 # Configuration
 DATAPIN = 25      # GPIO pin connected to DI
-NUMPIXELS = 25    # Number of LEDs in ZSRGB-2017H-08-Z3 strip
+                  # change to whatever pin you wish that supports PWM,
+                  # GPIO25 is the default LED pin on the Pico 2 and our clone uses it
+                  # GPIO22 is used for "hacked" Pico 2 prototype demo on solderless breadboard
+                  
+NUMPIXELS = 16    # Number of LEDs in ZSRGB-2017H-08-Z3 strip
 LED_ORDER = 3     # RGB
 
 # Initialize

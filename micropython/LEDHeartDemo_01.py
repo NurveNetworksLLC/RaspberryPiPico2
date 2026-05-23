@@ -21,7 +21,9 @@ import time
 import random
 
 # --- Hardware Configuration ---
-PIN = 25
+PIN = 25 # change to whatever pin you wish that supports PWM,
+         # GPIO25 is the default LED pin on the Pico 2 and our clone uses it
+         # GPIO22 is used for "hacked" Pico 2 prototype demo on solderless breadboard
 WIDTH = 4
 HEIGHT = 4
 PIXELS = WIDTH * HEIGHT
