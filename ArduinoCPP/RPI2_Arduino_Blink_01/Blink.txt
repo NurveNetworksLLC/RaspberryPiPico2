@@ -1,1 +1,7 @@
-Turn an LED on and off. 
+Turns RPI Pico LED on and off. 
+If you want to play around with Neopixels and OLEDs on the RPI Pico 2 clonem, make sure to include libraries:
+
+Adafruit_BusIO\
+Adafruit_GFX_Library\
+Adafruit_NeoMatrix\
+Adafruit_NeoPixel\
