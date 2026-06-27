@@ -12,10 +12,11 @@ Welcome to the official hardware and software repository for the **Raspberry Pi 
 This repository contains the production-ready source files, firmware, and code demonstrations for a high-performance, custom-engineered development board built around the powerful **Raspberry Pi RP2350 microcontroller**. 
 
 ### What's Inside This Repository:
-*   📁 `/software/micropython` - High-performance graphics, game logic, and driver demos for the 4x4 RGB matrix and OLED display.
-*   📁 `/software/cpp_arduino` - Raw performance C/C++ scripts utilizing the Earle Philhower core for advanced hardware control.
-*   📁 `/hardware/schematics` - Reference schematics and design architectures (PDF format).
-*   📁 `/production/bom_gerbers` - Reference Bill of Materials and manufacturing files.
+*   📁 `/micropython` - High-performance graphics, game logic, and driver demos for the 4x4 RGB matrix and OLED display written in MicroPython.
+*   📁 `ArduinoCPP` - Hello World C++ sample for Arduino IDE.
+*   📁 `/Manufacturing` - Gerber files, BOM, and production files for manufacturing.
+*   📁 `/EasyEDA` - EasyEDA source files for the project.
+*   📁 `/images` - Sample images of board.
 
 ---
 
@@ -27,7 +28,7 @@ Most electronics courses teach you how to plug wires into a breadboard. **This p
 
 If you want to stop prototyping in the dark and learn how to engineer your own custom single-board computers from concept to consumer product, check out the complete masterclass:
 
-> ### 🎓 [JOIN THE COURSE: The Black Art of Hardware Design with Raspberry Pi Pico 2](YOUR_UDEMY_LINK_HERE)
+> ### 🎓 [JOIN THE COURSE: The Black Art of Hardware Design with Raspberry Pi Pico 2](Udemy Link)
 > *Transform from a hobbyist into a professional hardware designer. Learn to design schematics, route complex PCBs, flash custom firmware, and launch your own hardware empire.*
 
 ---
