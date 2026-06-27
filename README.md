@@ -1,6 +1,7 @@
 # The Black Art of Hardware Design: Raspberry Pi Pico 2 Clone
 
 Welcome to the official hardware and software repository for the **Raspberry Pi Pico 2 Custom Clone** project. Whether you purchased this board on Amazon, received it as a kit, or stumbled onto this repo while looking for advanced RP2350 electronics design files—you are in the right place.
+
 ![Futuristic LabL Raspberry Pi Pico 2 Clone Board](https://github.com/NurveNetworksLLC/RaspberryPiPico2/blob/main/images/Gemini_Generated_Image_1teyty1teyty1tey.png)
 
 ---
@@ -29,7 +30,7 @@ Most electronics courses teach you how to plug wires into a breadboard. **This p
 
 If you want to stop prototyping in the dark and learn how to engineer your own custom single-board computers from concept to consumer product, check out the complete masterclass:
 
-> ### 🎓 [JOIN THE COURSE: The Black Art of Hardware Design with Raspberry Pi Pico 2](Udemy Link)
+> ### 🎓 [Enroll today in "The Black Art of Hardware Design with Raspberry Pi Pico 2](Udemy Link)
 > *Transform from a hobbyist into a professional hardware designer. Learn to design schematics, route complex PCBs, flash custom firmware, and launch your own hardware empire.*
 
 ---
@@ -60,4 +61,4 @@ Whether you lean toward rapid prototyping or bare-metal execution speed, this ha
 
 This repository is provided for educational and reference purposes. Feel free to use the code templates, explore the schematics, and run the demos on your hardware clone to jumpstart your own embedded engineering journey.
 
-*Ready to design your own board from a blank canvas? [Enroll in the Masterclass Today!](YOUR_UDEMY_LINK_HERE)*
+*Ready to design your own board from a blank canvas? [Enroll in the Masterclass Today!](UDEMY_LINK)*
