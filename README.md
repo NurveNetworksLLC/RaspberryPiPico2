@@ -2,6 +2,8 @@
 
 Welcome to the official hardware and software repository for the **Raspberry Pi Pico 2 Custom Clone** project. Whether you purchased this board on Amazon, received it as a kit, or stumbled onto this repo while looking for advanced RP2350 electronics design files—you are in the right place.
 
+(https://github.com/NurveNetworksLLC/RaspberryPiPico2/blob/main/images/Gemini_Generated_Image_1teyty1teyty1tey.png)
+
 ---
 
 ## 📸 The Project at a Glance
