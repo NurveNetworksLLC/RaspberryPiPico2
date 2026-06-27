@@ -36,7 +36,7 @@ If you want to stop prototyping in the dark and learn how to engineer your own c
 ## 📐 Hardware Architecture Highlight
 
 <!-- Drop an image of your schematic circuit design below -->
-![Schematic Design Blueprint](path/to/your/schematic_image.png)
+![Schematic Design Blueprint](https://github.com/NurveNetworksLLC/RaspberryPiPico2/blob/main/images/Schematic_RPI-Pico-2-Final-Live_2026-06-26.png)
 
 This clone pushes the RP2350 silicon to its absolute limits, integrating professional-grade engineering features directly onto the board:
 *   **Power Delivery Network (PDN):** Clean, filtered power rails designed to handle high-current switching transients.
