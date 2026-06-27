@@ -30,7 +30,7 @@ Most electronics courses teach you how to plug wires into a breadboard. **This p
 
 If you want to stop prototyping in the dark and learn how to engineer your own custom single-board computers from concept to consumer product, check out the complete masterclass:
 
-> ### 🎓 [Enroll today in "The Black Art of Hardware Design with Raspberry Pi Pico 2](Udemy Link)
+> #### 🎓 [Enroll today in "The Black Art of Hardware Design with Raspberry Pi Pico 2](Udemy Link)
 > *Transform from a hobbyist into a professional hardware designer. Learn to design schematics, route complex PCBs, flash custom firmware, and launch your own hardware empire.*
 
 ---
