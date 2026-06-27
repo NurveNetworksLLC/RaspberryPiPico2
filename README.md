@@ -7,7 +7,7 @@ Welcome to the official hardware and software repository for the **Raspberry Pi 
 ## 📸 The Project at a Glance
 
 <!-- Drop your hero image of the fully assembled PCB below -->
-![Custom Raspberry Pi Pico 2 Clone Board](path/to/your/board_image.png)
+![Custom Raspberry Pi Pico 2 Clone Board](https://github.com/NurveNetworksLLC/RaspberryPiPico2/blob/main/images/RPI2_Front_01.jpg)
 
 This repository contains the production-ready source files, firmware, and code demonstrations for a high-performance, custom-engineered development board built around the powerful **Raspberry Pi RP2350 microcontroller**. 
 
